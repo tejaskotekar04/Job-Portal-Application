@@ -7,7 +7,7 @@ import cors from 'cors';
 import morgan from 'morgan';
 import "express-async-errors";
 
-// API DOcumenATion
+// Swagger API DocumenATion
 import swaggerUi from "swagger-ui-express";
 import swaggerDoc from "swagger-jsdoc";
 
@@ -32,8 +32,8 @@ dotenv.config();
 //MongoDB connection
 connectDB();
 
-// Swagger api config
-// swagger api options
+// Swagger API config
+// Swagger API options
 const options = {
     definition: {
         openapi: "3.0.0",
