@@ -29,8 +29,11 @@ A backend system built with Node.js, Express and MongoDB that provides core func
 
 3. Setup environment variables (.env):
    PORT=8080
+   
    DEV_MODE=
-   MONGO_URL=your-mongodb-uri
+   
+   MONGO_URL=your-mongodb-url
+   
    JWT_SECRET=your-secret-key
 
 4.Start the server:
