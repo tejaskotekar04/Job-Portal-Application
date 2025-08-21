@@ -43,7 +43,7 @@ const options = {
         },
         servers: [
             {
-                //url: "http://localhost:8080",
+                //url: "http://localhost:8080/api-doc",
                 url: "https://job-portal-application-abxn.onrender.com/api-doc"
             },
         ],
