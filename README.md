@@ -29,7 +29,7 @@ A backend system built with Node.js, Express and MongoDB that provides core func
 
 3. Setup environment variables (.env):
    
-   PORT=your defined port number
+   PORT=8080
    
    DEV_MODE=
    
