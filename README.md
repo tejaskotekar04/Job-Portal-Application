@@ -28,6 +28,7 @@ A backend system built with Node.js, Express and MongoDB that provides core func
    npm install
 
 3. Setup environment variables (.env):
+   
    PORT=your defined port number
    
    DEV_MODE=
